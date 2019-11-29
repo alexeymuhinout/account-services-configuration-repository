@@ -1,0 +1,8 @@
+spring:
+    data:
+        mongodb:
+            database: shows-service
+            host: mongodb
+            port: 27017
+            username:
+            password:
