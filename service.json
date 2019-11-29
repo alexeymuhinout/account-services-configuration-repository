@@ -1,0 +1,11 @@
+[
+  {
+    "key" : "config/testApplication/testkey",
+    "value" : "dGVzdFZhbHVl"
+  },
+  {
+    "key"  : "config/testApplication/testkey2",
+    "value" : "dGVzdFZhbHVls",
+  }
+
+]
